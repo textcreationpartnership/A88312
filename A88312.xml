@@ -1,0 +1,1094 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of all the prisoners in the Upper Bench prison, remaining in custody the third of May, 1653. Delivered in by Sir John Lenthall to the committee appointed by the Councell of State, for examining of the state of the said prison, with the times of their first commitment, and the causes of their detention. And also the substance of the propositions made by the committee to the prisoners, with their answer thereunto. Published for information of all such as are concerned herein. By the appointment of the committee, Coll: Thomas Pride. Coll: Tomlinson. Coll: Cooper. Mr. John Fountaine. Mr. Richard Wollaston. Mr. Margets Judg Advocate</title>
+            <author>Lenthall, John, Sir, 1625-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88312</idno>
+            <idno type="STC">Wing L2381</idno>
+            <idno type="STC">Thomason E213_8</idno>
+            <idno type="STC">ESTC R15854</idno>
+            <idno type="EEBO-CITATION">99859931</idno>
+            <idno type="PROQUEST">99859931</idno>
+            <idno type="VID">112035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112035)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E213[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of all the prisoners in the Upper Bench prison, remaining in custody the third of May, 1653. Delivered in by Sir John Lenthall to the committee appointed by the Councell of State, for examining of the state of the said prison, with the times of their first commitment, and the causes of their detention. And also the substance of the propositions made by the committee to the prisoners, with their answer thereunto. Published for information of all such as are concerned herein. By the appointment of the committee, Coll: Thomas Pride. Coll: Tomlinson. Coll: Cooper. Mr. John Fountaine. Mr. Richard Wollaston. Mr. Margets Judg Advocate</title>
+                  <author>Lenthall, John, Sir, 1625-1681.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-24, 23-24, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Priuted [sic] for Livewell Chapman, and are to be sold at his shop at the Crown in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>The final leaf has "The printer to the reader".</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Annotation on Thomason copy: "May 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  Registers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112035:1" rendition="simple:additions"/>
+            <p>A LIST Of all the PRISONERS In the Upper Bench Priſon, remai<g ref="char:EOLhyphen"/>ning in Cuſtody the third of <hi>May,</hi> 1653.</p>
+            <p>Delivered in by Sir <hi>John Lenthall</hi> to the Committee appointed by the Coun<g ref="char:EOLhyphen"/>cell of STATE, for examining of the ſtate of the ſaid Priſon, with the times of their firſt Commitment, and the cauſes of their Detention.</p>
+            <p>And alſo the ſubſtance of the Propoſitions made by the Committee to the Priſoners, with their an<g ref="char:EOLhyphen"/>ſwer thereunto.</p>
+            <p>Publiſhed for Information of all ſuch as are concerned herein.</p>
+            <p>By the appointment of the Committee,
+<list>
+                  <item>Coll: <hi>Thomas Pride.</hi>
+                  </item>
+                  <item>Coll: <hi>Tomlinſon.</hi>
+                  </item>
+                  <item>Coll: <hi>Cooper.</hi>
+                  </item>
+                  <item>Mr. <hi>John Fountaine.</hi>
+                  </item>
+                  <item>Mr. <hi>Richard Woliaſton.</hi>
+                  </item>
+                  <item>Mr. <hi>Margets</hi> Judg Advocate.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Livewell Chapman,</hi> and are to be ſold at his ſhop at the Crown in <hi>Popeſ head Alley,</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prisoner_list">
+            <pb facs="tcp:112035:2"/>
+            <pb n="1" facs="tcp:112035:2"/>
+            <head>A <hi>Kalender</hi> of all ſuch Priſoners, with the Cauſes of their ſeverall detenti<g ref="char:EOLhyphen"/>ons, that ſtand Committed to the Cuſtody of Sir <hi>John Lenthall,</hi> Knight, Marſhall of the Upper Bench, and where they now are.</head>
+            <list>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Illiam Riccarbye,</hi> committed the 8. of <hi>Febr:</hi> 1640. upon an appeale of Murther. <hi>Common Priſon.</hi>
+               </item>
+               <item>
+                  <hi>John Finch,</hi> committed the 13 of <hi>May,</hi> 1640. In Execution for 88. <hi>l.</hi> 10. <hi>s. C. P.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Brockas,</hi> committed <hi>July</hi> 1. 1640. Actions and Executions, 18000. <hi>l. In the Rules.</hi>
+               </item>
+               <item>
+                  <hi>George Duke,</hi> committed <hi>Jan.</hi> 24. 1640. Actions and Executions 5120. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Ralph Jerrard,</hi> committed <hi>May</hi> 18. 1640. his Actions and Executions 1000. <hi>l. Priſon Houſe. C. P.</hi>
+               </item>
+               <item>
+                  <hi>Robert Cratcherwood,</hi> committed <hi>Nov.</hi> 16. 1631. his Actions and Executions 460. <hi>l. C. P.</hi>
+               </item>
+               <item>
+                  <hi>Anne Oakeman,</hi> committed <hi>Jan.</hi> 26. 1646. for Fello<g ref="char:EOLhyphen"/>ny and Murther. <hi>C. P.</hi>
+               </item>
+               <item>
+                  <hi>Robert Holland,</hi> committed <hi>April</hi> 27. 1616. his Acti<g ref="char:EOLhyphen"/>ons and Executions 2594. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>John Pym,</hi> committed <hi>Octob.</hi> 6. 1641. his Actions 970. <hi>l. C. P.</hi>
+               </item>
+               <item>
+                  <hi>Alexander Popham,</hi> committed <hi>March</hi> 13. 1633 his Actions and Executions 5456. <hi>l.</hi> R.</item>
+               <item>
+                  <hi>John Hargill,</hi> committed, <hi>Feb.</hi> 6. 1641. his Actions and Executions 400. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>James Waad</hi> committed, <hi>Feb.</hi> 9. 1641. his Actions and Executions, 3500. <hi>l.</hi> R.</item>
+               <item>
+                  <hi>Thomas Needham,</hi> committed, <hi>May</hi> 18. 1642. his Acti<g ref="char:EOLhyphen"/>ons and Executions 4500. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>James Pickering,</hi> committed, <hi>Octob.</hi> 25. 1642. his A<g ref="char:EOLhyphen"/>ctions and Executions, 5200. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Edward Parker,</hi> committed, <hi>May</hi> 9. 1643. his Actions and Executions, 1500. <hi>l. P. H.</hi>
+               </item>
+               <item>
+                  <hi>Henry Aldrich,</hi> committed, <hi>May</hi> 26. 1643. his Actions and Executions, 172. <hi>l. C. P.</hi>
+               </item>
+               <pb n="2" facs="tcp:112035:3"/>
+               <item>
+                  <hi>Mawrice Abbot,</hi> committed <hi>June</hi> 10. 1643. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 9800. <hi>l. R.</hi>
+               </item>
+               <item>Sir <hi>Thomas Dawes,</hi> committed, <hi>April</hi> 23. 1644. his A<g ref="char:EOLhyphen"/>ctions and Executions, 26000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Charles Beſtocke,</hi> committed, <hi>Octob.</hi> 14. 1644. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 3400. <hi>l. R.</hi>
+               </item>
+               <item>Sir <hi>Edward Brumfield,</hi> committed <hi>Octob.</hi> 23. 1644. his Actions and Executions, 3800. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Abraham Woodroffe,</hi> committed, <hi>Nov.</hi> 11. 1644. his A<g ref="char:EOLhyphen"/>ctions and Executions, 1300. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>John Hill,</hi> committed, <hi>Octob.</hi> 25. 1649. his Actions and Executions, 2000. <hi>l. R.</hi>
+               </item>
+               <item>Sir <hi>Thomas Nott,</hi> committed, <hi>Octob.</hi> 30. 1649. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 8000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>John,</hi> Earle <hi>Rivers,</hi> committed <hi>Octob.</hi> 30. 1649. his Actions and Executions, 60000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Henry,</hi> Lord <hi>Morley,</hi> and <hi>Mounteagle,</hi> committed, <hi>Nov.</hi> 3. 1649. Actions and Executions. 7000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>John Brewer,</hi> committed, <hi>Nov.</hi> 5. 1649. his Actions and Executions, 2811. <hi>C. Pr.</hi>
+               </item>
+               <item>
+                  <hi>Richard Manſwer,</hi> committed, <hi>Nov.</hi> 16. 1649. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 340. <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>Francis Kibblewaite,</hi> committed <hi>Novemb.</hi> 17. 1649. his Actions, 40. <hi>l. R.</hi>
+               </item>
+               <item>Sir <hi>Edward Loftus,</hi> committed, <hi>Nov.</hi> 22. 1649. his Acti<g ref="char:EOLhyphen"/>ons, 3850. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Benjamine Poole,</hi> committed, <hi>Nov.</hi> 21. 1649. his Exe<g ref="char:EOLhyphen"/>cutions and Actions, 50. <hi>l. Rules.</hi>
+               </item>
+               <item>Sir <hi>Alexander Radcliffe,</hi> committed, <hi>Nov.</hi> 23. 1649. his Actions and Executions, 4700. <hi>l. R.</hi>
+               </item>
+               <item>Sir <hi>John Wake,</hi> committed, <hi>Nov.</hi> 30. 1649. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 2600. <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>John Allanſon,</hi> committed, <hi>Decemb.</hi> 4. 1649. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 700. <hi>l. P. H.</hi>
+               </item>
+               <item>
+                  <hi>Anne Ravenſcroft,</hi> committed, <hi>Decemb</hi> 8. 1649. her Actions and Executions, 2612. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>John Doggerell,</hi> committed, <hi>Decemb.</hi> 15. 1649. his A<g ref="char:EOLhyphen"/>ctions and Executions, 640. <hi>l. C. P.</hi>
+               </item>
+               <item>
+                  <hi>William Poulton,</hi> committed, <hi>July</hi> 3. 1645. his Acti<g ref="char:EOLhyphen"/>ons and Executions, 4113. <hi>l. P. H.</hi>
+               </item>
+               <pb n="3" facs="tcp:112035:3"/>
+               <item>
+                  <hi>Edward Hanchet</hi> committed the 12. of <hi>Novemb.</hi> 1645 his Actions and Execution 2000. <hi>l.</hi> R</item>
+               <item>Sir <hi>George Grimes</hi> committed the 26. of <hi>January,</hi> 1645. his Actions 3000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Turner</hi> committed, <hi>Feb.</hi> 16. 1645. his Actions and Executions 5000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William King</hi> committed, <hi>March</hi> 19. 1645. his Actions and Executions 1000 <hi>l.</hi> R</item>
+               <item>Sir <hi>Henry Samborn</hi> committed, <hi>May</hi> 29. 1646. his Acti<g ref="char:EOLhyphen"/>ons 4300 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Samuel Tovery</hi> committed, <hi>May</hi> 29. 1646. his Actions and Executions 1000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>John Ayliffe</hi> committed, <hi>June</hi> 1. 1646. his Actions 1000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>James Fawcet</hi> committed, <hi>Iuly</hi> 24. 1646. his Actions and Executions 3000 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Edward Darcy</hi> Eſq committed, <hi>Octob.</hi> 12. 1646. his Acti<g ref="char:EOLhyphen"/>ons and Execution 2000 <hi>l.</hi> R</item>
+               <item>Sir <hi>Iob Harvye</hi> committed, <hi>Novemb.</hi> 7. 1646. his Acti<g ref="char:EOLhyphen"/>ons and Executions 50000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William Hooper</hi> committed <hi>Novemb.</hi> 27. 1646. his Acti<g ref="char:EOLhyphen"/>on and Execution 233 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Ralph Horſey</hi> committed <hi>Decem.</hi> 4. 1646. Action 2000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Aaron Williams</hi> committed,<hi>Ianury</hi> 20. 1646. his Acti<g ref="char:EOLhyphen"/>ons and Execution 400 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William King</hi> committed, <hi>April</hi> 15. 1647. his Actions and Executions 1200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Algernon Peyton</hi> committed, <hi>May</hi> 21. 1647. his Actions and Execution 2400 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William Blake</hi> committed, <hi>Iuly</hi> 3. 1647. Action and Ex<g ref="char:EOLhyphen"/>ecution 200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iohn Crooke</hi> committed, <hi>Ianuary</hi> 4. 1646. Actions and Executions 8000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Webb</hi> committed, <hi>Novemb.</hi> 13. 1647. Actions and Executions 400 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iohn Morrice,</hi> all as <hi>Point<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> committed <hi>Novemb.</hi> 13. 1647. his Actions and Executions 5000 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>William Wortly</hi> committed, <hi>Novemb.</hi> 18. 1647. Actions and Executions 120 <hi>l. C. P.</hi>
+               </item>
+               <item>☞ Sir <hi>Thomas C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bill</hi> committed, <hi>Novem.</hi> 23. 1647 Actions and Executions 8000 <hi>l. Rules.</hi>
+               </item>
+               <pb n="2" facs="tcp:112035:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:112035:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:112035:5"/>
+               <item>
+                  <hi>Peremie Meade</hi> committed <hi>Decemb.</hi> 15. 1647. Actions and Executions 300 <hi>l. C. P.</hi>
+               </item>
+               <item>Sir <hi>David Cunningham</hi> committed, <hi>April</hi> 26. 1648. his Actions and Executions 13200 <hi>l.</hi> R</item>
+               <item>Sir <hi>Arthur Loſtus</hi> committed, <hi>Iune</hi> 25. 1648. Actions 2000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Bringeſt</hi> committed, <hi>Septemb.</hi> 5. 1648. Action 1200 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Michael Barkeſtead</hi> committed, <hi>Octob.</hi> 19. 1648. Action and Execution 300 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William Byrch</hi> committed, <hi>Novemb.</hi> 17. 1648. Actions and Executions 400 <hi>l. P. H.</hi>
+               </item>
+               <item>
+                  <hi>Edward Gouldſmith</hi> committed, <hi>Novemb.</hi> 27. 1648. his Actions 1000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Chriſtopher Ennis</hi> committed, <hi>Decemb.</hi> 1. 1648. Action 500 <hi>l.</hi> R</item>
+               <item>Sir <hi>William Ogle</hi> committed, <hi>Decemb.</hi> 6. 1648. Actions and Executions 4800 <hi>l.</hi> R</item>
+               <item>Sir <hi>Iohn Nulls</hi> committed, <hi>Ianuary</hi> 8. 1648. his actions and Executions 101780 <hi>l.</hi> R</item>
+               <item>Sir <hi>Iohn Iacob</hi> committed, <hi>Ianuary</hi> 17. 1648. his actions and Executions are 96850 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Stephen Beckingham</hi> committed, <hi>March</hi> 22. 1648. his actions are 800 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Lucas</hi> committed, <hi>May</hi> 2. 1649. his actions 650 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Miles Cod</hi> committed, <hi>May</hi> 4. 1649. his actions 300 <hi>l.</hi> R</item>
+               <item>Sir <hi>Adam Loftus</hi> committed, <hi>May</hi> 5. 1649. his actions and executions 13600 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iohn Smith</hi> committed, <hi>May</hi> 5. 1649. his actions 1100 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Henry Atkins</hi> committed <hi>May</hi> 29. 1649. his actions and Executions 1020 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Roger Bragg</hi> committed, <hi>Iune</hi> 2. 1649. action 200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iohn Williams</hi> committed, <hi>Iune</hi> 11. 1649. his actions and Executions are 320 <hi>l. C. P.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Steward</hi> committed, <hi>Iune</hi> 13. 1649. his actions and Executions 3500 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Francis Sherington</hi> committed, <hi>Iune</hi> 16. 1649. his acti<g ref="char:EOLhyphen"/>ons and Executions are 10100 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>William Godſalve</hi> committed, <hi>Iune</hi> 26. 1649. his actions and executions 220 <hi>l. P. H.</hi>
+               </item>
+               <pb n="5" facs="tcp:112035:5"/>
+               <item>
+                  <hi>Iohn Eaton</hi> committed, <hi>Iune</hi> 26. 1649. his actions are 700. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Margaret Bancroft</hi> committed, <hi>Auguſt</hi> 9. 1649. actions and executions 850 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>George Dunne</hi> committed, <hi>Septemb.</hi> 20. 1649. his acti<g ref="char:EOLhyphen"/>ons and executions are 140 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>George Winder</hi> committed, <hi>Octob.</hi> 4. 1649. his actions and executions are 540 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Edward Eldrington</hi> committed, <hi>Octob.</hi> 11. 1649. his acti<g ref="char:EOLhyphen"/>ons and executions 1000 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Reinger</hi> committed <hi>Octob.</hi> 10. 1649. his actions 940 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Henry Hazlefoot</hi> committed, <hi>Octob.</hi> 18. 1649. his acti<g ref="char:EOLhyphen"/>ons are 442 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>William Colvile</hi> committed <hi>Decemb.</hi> 7. 1647. his actions and executions are 2000 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Robert Shaw</hi> committed, <hi>May</hi> 10. 1648. his actions are 8200 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Francis Bradſhaw</hi> committed, <hi>June</hi> 17. 1648. his actions and executions are 800 <hi>l. C. Pr.</hi>
+               </item>
+               <item>Sir <hi>Henry Ferris</hi> committed, <hi>May</hi> 29. 1649. his actions are 3250 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>Mild<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ay Buggs,</hi> widow, committed, <hi>June</hi> 12. 1649. her Actions, 300. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Francis Williamſon,</hi> committed, <hi>May</hi> 26. 1647. his A<g ref="char:EOLhyphen"/>ctions and Executions, 3000 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Ferdinando,</hi> Earle of <hi>Huntington,</hi> committed, <hi>Januar.</hi> 2. 1649. his Actions and Executions about 7000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Mator,</hi> committed, <hi>Jan.</hi> 4. 1649. for Actions and Executions, 2000. <hi>l. P. H.</hi>
+               </item>
+               <item>
+                  <hi>John Lumly,</hi> committed, <hi>Feb.</hi> 5. 1649. Actions 2000. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>John James,</hi> committed, <hi>Feb.</hi> 6. 1649. Actions and Ex<g ref="char:EOLhyphen"/>ecutions, 2500. <hi>l. C. P.</hi>
+               </item>
+               <item>Sir <hi>Thomas Bludder,</hi> committed, <hi>Feb.</hi> 16. 1649. his A<g ref="char:EOLhyphen"/>ctions and Executions are 4000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>John Holloway,</hi> committed, <hi>Feb.</hi> 18. 1649. his Acti<g ref="char:EOLhyphen"/>ons and Executions are 4750. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Lewis Chadwicke,</hi> committed, <hi>Feb.</hi> 27. 1649. his Ac<g ref="char:EOLhyphen"/>tions are 1000. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Georee Rowell,</hi> committed, <hi>March</hi> 4. 1649. his Actions and Executions are 520. <hi>l. C. P.</hi>
+               </item>
+               <pb n="6" facs="tcp:112035:6"/>
+               <item>
+                  <hi>George</hi> Earle of <hi>Kildare</hi> committed, <hi>March</hi> 4. 1649. his actions and executions are 2000 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Vincent Cranfield</hi> committed <hi>April</hi> 8. 1650. his actions and executions 4200 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Henry Futter</hi> committed <hi>April</hi> 20. 1650. his actions and executions are 5760 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Aſh</hi> committed <hi>April</hi> 22. 1650. his actions and ex<g ref="char:EOLhyphen"/>ecutions are 330 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>William Lorkin</hi> committed <hi>May</hi> 2. 1650. his actions are 4000 <hi>l. Pr. H.</hi>
+               </item>
+               <item>☞ <hi>Philip Iacobſon</hi> committed <hi>May</hi> 3. 1650. upon a<g ref="char:EOLhyphen"/>ction, no ſum expreſſed. <hi>Rules.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Terry</hi> committed, <hi>May</hi> 7. 1650. his executione and actions are 400 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>Philip VVelby</hi> committed, <hi>May</hi> 7. 1650. his actions and executions 9700 <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Henry Haſtings</hi> committed, <hi>May</hi> 7. 1650. actions and executions 1740 <hi>l. Pr. H.</hi>
+               </item>
+               <item>
+                  <hi>George Kirke</hi> committed <hi>May</hi> 20. 1650. his actions and executions are 3782 <hi>l Rules.</hi>
+               </item>
+               <item>
+                  <hi>John Corbett,</hi> committed, <hi>May.</hi> 25. 1650. his Actions and Executions are 600. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>William Chamberlayne,</hi> committed, <hi>May.</hi> 29. 1650. Ac<g ref="char:EOLhyphen"/>tions 294. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Peter Philcott,</hi> committed <hi>Iuly</hi> 2. 1650. his Actions and Executions are 440. <hi>l. P. H.</hi>
+               </item>
+               <item>
+                  <hi>Charles Savage,</hi> committed <hi>Iuly</hi> 4. 1650. his Actions 300. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Andrewes,</hi> committed <hi>Iuly</hi> 13. 1650. his Ac<g ref="char:EOLhyphen"/>tions are 300. <hi>l. R.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Motham,</hi> committed, <hi>Iuly</hi> 17. 1650. his Actions and Executions are 672. <hi>l. P. H.</hi>
+               </item>
+               <item>
+                  <hi>Edward Watkins,</hi> committed, <hi>Octob.</hi> 19. 1650. his Ac<g ref="char:EOLhyphen"/>tions are 800. <hi>l. Rules.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Spencer,</hi> committed, <hi>Octob.</hi> 31. 1650. his Ac<g ref="char:EOLhyphen"/>tions are 45. <hi>l. P. H.</hi>
+               </item>
+               <pb n="9" facs="tcp:112035:6"/>
+               <item>
+                  <hi>Roger Portington,</hi> committed the 9 day of <hi>November,</hi> 1650. his Actions and Execution are 2897 <hi>l.</hi> R</item>
+               <item>
+                  <hi>John Child</hi> committed the 23 day of <hi>Novemb.</hi> 1650. his Actions and Executions are 32000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Blaſhfield,</hi> committed the 26 of <hi>November</hi> 1650. his Actions are 68 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Chriſtopher Berrisford,</hi> committed the 27 of <hi>No<g ref="char:EOLunhyphen"/>vember</hi> 1650. his Actions are 1400 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Bucks,</hi> committed the 3 day of <hi>December</hi> 1650. his Actions and Executions are 3065 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>William Griggs,</hi> committed the 9 of <hi>October</hi> 1650. his Actions and Executions are 150 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Joſeph Lloyd,</hi> committed the 20 of <hi>December</hi> 1650. his Actions and Execution are 350 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Nicholas Arnold,</hi> committed the 20 of <hi>May,</hi> 1641. his Actions and Execution are 8000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Aſhton,</hi> committed the 2 day of <hi>December</hi> 1651. his Actions are 90 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Adye,</hi> committed the 3 day of <hi>February</hi> 1651. his Actions are 750 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Richard Allford,</hi> committed the 26 of <hi>February</hi> 1651. his Actions and Execution are 1000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William Abel,</hi> committed the 12 of <hi>March</hi> 1651. his Action and Execution are 8900 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Anthony Anyer</hi> committed the 17 day of <hi>July</hi> 1652. his Actions are 1400 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Robert Allden,</hi> committed the 27 day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 1652. his Actions and Execution are 600 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Ralph Addgoe,</hi> committed the 6 of <hi>July,</hi> 1652. his Actions and Executions are 118 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Margaret Arden,</hi> committed the 14 day of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> 1652. her Actions and Execution are 140 <hi>l.</hi> R</item>
+               <item>Sir <hi>John Baker,</hi> committed the 9 day of <hi>May</hi> 1651. his Actions and Execution are 8600 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Edward Baſs,</hi> committed the 26 day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 1651. his Actions are 500 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Edward Baker,</hi> committed the 1 day of <hi>December</hi> 1651. his Action and Execution are 255 <hi>l.</hi> R</item>
+               <pb n="10" facs="tcp:112035:7"/>
+               <item>
+                  <hi>Arthur Bromefield,</hi> committed the 12 day of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> 1651. his Actions are 350 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>George Beſt,</hi> committed the 28 day of <hi>February</hi> 1651. his Actions are 60 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Brooks,</hi> committed the 5 day of <hi>March</hi> 1651. his Actions are 850 <hi>l.</hi> R</item>
+               <item>
+                  <hi>James Blinkinſop,</hi> committed the 15 day of <hi>April</hi> 1652. his <hi>Actions</hi> are 830 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Edward Buſter,</hi> committed the 15 day of <hi>June</hi> 1652. the <hi>Actions</hi> are 28 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Nathanael Brown</hi> committed the 21 of <hi>June</hi> 1652. his Actions and Executions are 12 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Brandon,</hi> committed the 25 of <hi>June</hi> 1652. his Actions are 160 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Edmond Brampſton,</hi> committed the 7 day of <hi>Auguſt</hi> 1652. his <hi>Actions</hi> and <hi>Executions</hi> are 2100 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas David Beavan,</hi> committed the 4 of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 1652. his <hi>Actions</hi> are 235 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Banks,</hi> committed the 9 of <hi>November</hi> 1652. his Actions are 206 <hi>l.</hi> R</item>
+               <item>
+                  <hi>David Beavan,</hi> committed the firſt of <hi>January</hi> 1652. charged by vertue of a Plea of Treſpaſs. C. P.</item>
+               <item>
+                  <hi>Robert Bickerton,</hi> committed the firſt of <hi>Febr.</hi> 1652. his <hi>Actions</hi> are 600 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Francis Bird,</hi> committed the 12 day of <hi>May</hi> 1652. his Execution for 300 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Edward Bucklee,</hi> committed the 22 of <hi>Decemb.</hi> 1652. his Execution 18 <hi>l.</hi> 4 <hi>s.</hi> 2 <hi>d.</hi> R</item>
+               <item>
+                  <hi>Norton Barrowe,</hi> committed the 17 of <hi>May</hi> 1651. his <hi>Actions</hi> and <hi>Execution</hi> are 930 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Beunet,</hi> committed the 9 of <hi>Auguſt</hi> 1652. his <hi>Actions</hi> are 5 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Bures,</hi> committed the 12 of <hi>February</hi> 1652. his Actions are 110 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Henry Bryan,</hi> committed the 2 day of <hi>March</hi> 1652. his Actions are 90 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Blanke,</hi> committed the 10 of <hi>April</hi> 1651. his Actions are 150 <hi>l.</hi> C. P.</item>
+               <pb n="11" facs="tcp:112035:7"/>
+               <item>
+                  <hi>William Beavan,</hi> committed the 19 of <hi>March</hi> 1652. in Execution for 310 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iohn Bowyer,</hi> committed the 29 of <hi>March</hi> 1653. his Actions are 2000 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Andrew Bradſhaw</hi> committed the 31 of <hi>March</hi> 1653. his Actions are 520 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Hugh Brelsford,</hi> committed the 23 of <hi>April</hi> 1653. his Actions are 500 <hi>l.</hi> R</item>
+               <item>
+                  <hi>William Bell,</hi> committed the 18 of <hi>April</hi> 1653. his Actions are 180 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Samuel Browning,</hi> committed the 27 of <hi>April</hi> 1653. his Action in Treſpaſs. P. H.</item>
+               <item>
+                  <hi>Thomas Carpenter,</hi> committed the 9 day of <hi>February</hi> 1638. his Actions and Executions are 3000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Crew,</hi> committed the 16 of <hi>Decemb.</hi> 1646. his Actions are 2600 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Henry Crowly,</hi> committed the 27 of <hi>Iune</hi> 1651. his Actions are 800 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Humphrey Clark,</hi> committed the 16 of <hi>September</hi> 1651. his Actions and Executions are 1900 <hi>l.</hi> R</item>
+               <item>Sir <hi>Thomas Cyſcil</hi> Knight, committed the 30 of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 1642. his Actions and Executions are 3500 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Francis Cotham,</hi> committed the 3 of <hi>Iune</hi> 1652. his Actions are 500 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Charles Chillingworth,</hi> committed the 23 of <hi>Iune</hi> 1652. his Actions are 234 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Curtis,</hi> committed the 24 of <hi>Iune</hi> 1652. his Actions are 10 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Iohn Cole,</hi> committed the 2 of <hi>Iuly</hi> 1652. his Actions are 160 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>William Cumberford</hi> Eſq committed the 6 of <hi>Iuly</hi> 1652. his Actions and Executions are 800 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Cyſcil,</hi> committed the 14 of <hi>July</hi> 1652. Acti<g ref="char:EOLhyphen"/>on and Execution 108 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Cotton,</hi> committed the 10 of <hi>Auguſt</hi> 1652. his Actions and Executions are 218 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Lawrence Cole,</hi> committed the 4 of <hi>Septemb.</hi> 1652. his Actions and Executions are 186 <hi>l.</hi> P. H.</item>
+               <pb n="12" facs="tcp:112035:8"/>
+               <item>
+                  <hi>Thomas Camber,</hi> committed the 29 of <hi>November,</hi> 1652 his Executions and Actions are 352 <hi>l.</hi> R</item>
+               <item>
+                  <hi>John Cholmely,</hi> committed the 26 of <hi>November</hi> 1652 his Actions 86 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Fitz William Coningsbye</hi> committed the 17 day of <hi>December</hi> 1652 his Actions are 8000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>James Campton,</hi> committed the 19 day of <hi>January</hi> 1652 with an Action of treſpaſs. P. H.</item>
+               <item>
+                  <hi>Thomas Catroe</hi> committed the 20 day of <hi>January</hi> 1652. his Actions are 280 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Coxe,</hi> committed the 26 day of <hi>January,</hi> 1652 his Actions are 160 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>William Cullowe</hi> committed the 15 day of <hi>Iuly,</hi> 1652 his Actions and Executions are 52 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Dorothy Chewne,</hi> committed the 2 day of <hi>Iuly,</hi> 1647. her Execution 27 <hi>l.</hi> 10 <hi>s.</hi> P. H.</item>
+               <item>
+                  <hi>Charles Croſts</hi> committed the 23 of <hi>Decemb.</hi> 1646. his Actions and Executions are 5300 <hi>l.</hi> R</item>
+               <item>☞<hi>William Carnaby</hi> committed the 25 of <hi>October</hi> 1639. by command of the Court. P. H.</item>
+               <item>Sir <hi>Iohn Clark,</hi> committed the 27 of <hi>May</hi> 1643. his Actions and Executions are 3550 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Vincent Corbet,</hi> committed the 20 day of <hi>February</hi> 1651. his Actions are 248 <hi>l.</hi> R</item>
+               <item>☞Sir <hi>Thomas Coghill,</hi>
+                  <note place="margin">Named before, and but 8000 <hi>l.</hi>
+                  </note> committed the 23 day of <hi>Novem.</hi> 1647. his Actions and Executions are 13700 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Haſtings Cook,</hi> committed the 22 of <hi>March</hi> 1652. his Actions are 40 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Henry Devaux,</hi> committed the 30 of <hi>April</hi> 1653. debt 500 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Robert Dowdon,</hi> committed the firſt of <hi>Iuly</hi> 1652. his Actions are 20 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Iohn Davies,</hi> committed the 10 of <hi>May</hi> 1651. his Actions and Executions are 1500 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Henry Daniel,</hi> committed the 21 of <hi>Ianuary</hi> 1647. his Executions and actions are 7013. R.</item>
+               <item>
+                  <hi>Iohn Deconis,</hi> committed the 5 day of <hi>March</hi> 1652. with an action of Treſpaſs. P. H.</item>
+               <pb n="13" facs="tcp:112035:8"/>
+               <item>
+                  <hi>Thomas Elliot</hi> Knight, committed the 25 day of <hi>April</hi> 1629 his Actions and Executions 1150 <hi>l.</hi> R</item>
+               <item>Sir <hi>John Egerton,</hi> committed the 13 of <hi>January</hi> 1648. his Actions are 12200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Edmond Eyre</hi> committed the 27 of <hi>March</hi> 1651. Actions and Executions are 240 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Thomas Ellis,</hi> committed the 27 day of <hi>October</hi> 1651. his Executions are 1500 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Nicholas Elton,</hi> committed the 28 day of <hi>October</hi> 1652 his Actions 178 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>William Edwards,</hi> committed the 20 of <hi>November</hi> 1652 his Actions are 290 <hi>l.</hi> R.</item>
+               <item>
+                  <hi>William Elborne,</hi> committed the 5 day of <hi>February</hi> 1652. and charged with an Outlary. R.</item>
+               <item>
+                  <hi>Anthony Frankiſh</hi> committed the 23 of <hi>June</hi> 1640. his Actions and Executions 2740 <hi>l.</hi> R.</item>
+               <item>
+                  <hi>Nicholas Faireweather,</hi> committed the 15 day of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1651. his Actions and Executions are 1650 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Frith,</hi> committed the 24 day of <hi>May</hi> 1650. his Actions are 200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Freeman.</hi> committed the 23 day of <hi>October</hi> 1651. his Actions and Executions are 480 <hi>l.</hi> R</item>
+               <item>☞<hi>Richard Freſhwarter,</hi> committed the 23 of <hi>June</hi> 1652. in diſcharge of his bayle. R</item>
+               <item>
+                  <hi>Robert Freiſtone,</hi> committed the 12 of <hi>July</hi> 1652 his Actions are 300 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Fiſher</hi> committed the 20 day of <hi>Auguſt</hi> 2652 his Actions are 150 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Matthew Foſter,</hi> committed the 4 day of <hi>December</hi> 1652 his Actions are 1600 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Faulkener</hi> committed the 25 day of <hi>January</hi> 1652. by the command of the Court. P. H.</item>
+               <item>
+                  <hi>Lancolet Faulkener,</hi> committed the 11 day of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> 1652. in Execution for 30 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Oſmond Gibbs,</hi> committed the 23 day of <hi>November</hi> 1650 in Execution for 38 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Thomas Grymes,</hi> committed the 23 day of <hi>April</hi> 1651 in Execution for 300 <hi>l.</hi> P. H.</item>
+               <pb n="14" facs="tcp:112035:9"/>
+               <item>
+                  <hi>Edmond Goodere,</hi> committed the 28 day of <hi>Iune,</hi> 1652. his Actions 4000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Francis Goodere</hi> Eſq; committed the 17 of <hi>Auguſt,</hi> 1651. his Actions are 22 <hi>l.</hi> 15 <hi>s.</hi> P. H.</item>
+               <item>
+                  <hi>Robert Gardner,</hi> committed the 5 day of <hi>December,</hi> 1651. his Actions and Executions 1200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iohn Ierrard,</hi> committed the 6 day of <hi>October,</hi> 1651. his Execution 800 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Thomas Greene,</hi> committed the 22 day of <hi>May,</hi> 1652. his Actions and Executions are 80 <hi>l.</hi> C. P.</item>
+               <item>☞<hi>Nicholas Greathed,</hi> committed the 17 day of <hi>June,</hi> 1652. in diſcharge of his bayle. P. H.</item>
+               <item>
+                  <hi>William Grace,</hi> committed the 13 day of <hi>Auguſt,</hi> 1652. his Actions are 15 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Leonard Guy,</hi> committed the 3 day of <hi>September,</hi> 1652. his Actions and Execution are 84 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Samuel Grymes,</hi> committed the 12 day of <hi>November,</hi> 1652. his Actions 955 <hi>l.</hi> R</item>
+               <item>
+                  <hi>George Gray,</hi> committed the 29 day of <hi>January</hi> 1652. his Actions are 1000 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>James Godden,</hi> alias <hi>Goddwyn</hi> committed the 28 day of <hi>May</hi> 1652. his Actions are 330 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Marmaduke Gill,</hi> committed the 5 day of <hi>July</hi> 1652. his Actions are 1200 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Thomas Grover,</hi> committed the 5 day of <hi>December</hi> 1649. his Executions and Actions 600 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>John Gibbon</hi> committed the 28 day of <hi>April</hi> 1649. his Actions and Executions 4000 <hi>l.</hi> R</item>
+               <item>☞<hi>Robert Gradye,</hi> committed in diſcharge of his bayle, the 8 day of <hi>February</hi> 1652. C. P.</item>
+               <item>
+                  <hi>Elizabeth Grove,</hi> committed the 14 day of <hi>February</hi> 1652. Actions 2000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Henry Gooch,</hi> committed the 1 day of <hi>March</hi> 1652. Actions and Executions 88 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Francis Gay,</hi> committed the 28 day of <hi>March</hi> 1653. his Actions are 100 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Gates,</hi> committed the 28 day of <hi>April</hi> 1653. in diſcharge of his bayle. R</item>
+               <pb n="15" facs="tcp:112035:9"/>
+               <item>
+                  <hi>Thomas Hawtens</hi> committed the 16 day of <hi>October</hi> 1639. his Actions and Execution are 2300. R</item>
+               <item>
+                  <hi>Thomas Hanſon,</hi> committed the 8 day of <hi>April</hi> 1651. his Actions are 1200. R</item>
+               <item>
+                  <hi>Thomas Huckle,</hi> committed the 16 day of <hi>April</hi> 1650 his Actions 260 <hi>l.</hi> R</item>
+               <item>
+                  <hi>John Harbone,</hi> committed the 16 day of <hi>May</hi> 1651 his Actions and Executions are 860 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Benjamin Harriſon,</hi> committed the 26 day of <hi>June</hi> 1651. his Actions are 500 <hi>l.</hi> R</item>
+               <item>
+                  <hi>John Hurd,</hi> committed the 13 day of <hi>February</hi> 1651 his Actions and Executions are 750 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Thomas Horſnel,</hi> committed the 1 day of <hi>July</hi> 1651. his Actions are 1100 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas Hoarth,</hi> committed the 26 of <hi>November</hi> 1651 his Actions are 600 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Thomas</hi> Earl of <hi>Berks,</hi> committed the 5 of <hi>March</hi> 1651. his Actions and Executions are 14400 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Abraham Haulſey</hi> committed the 2 day of <hi>March,</hi> 1651 his Actions are 220 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Henry Hebb,</hi> committed the 22 day of <hi>September,</hi> 1652 his Actions are 360 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Richard Harding,</hi> committed the 12 day of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1652 his Actions are 100 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Hocknel,</hi> committed the 16 day of <hi>November,</hi> 1652 his Actions are 204 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Adam Howes,</hi> committed the firſt of <hi>December,</hi> 1652 charged with an order out of the Exchequer. P. H.</item>
+               <item>
+                  <hi>Iohn Holden,</hi> committed the 3 day of <hi>Ianuary</hi> 1652 in Execution for 58 <hi>l.</hi> P. H.</item>
+               <item>☞<hi>Hugh Harvey,</hi> committed the 31 day of <hi>January,</hi> 1652. in diſcharge of his bayle P. H.</item>
+               <item>
+                  <hi>Thomas Hall,</hi> committed the 19 day of <hi>February,</hi> 1652. with an Action of treſpaſs C. P.</item>
+               <item>
+                  <hi>John Horniold,</hi> committed the 6 day of <hi>November,</hi> 1649. his Actions are 150 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Charles Harris,</hi> committed the 19 day of <hi>June,</hi> 1646. his actions are 570 <hi>l.</hi> R</item>
+               <pb n="16" facs="tcp:112035:10"/>
+               <item>
+                  <hi>Anne Hume,</hi> committed the 10 day of <hi>December</hi> 1652 her Executions are 39 <hi>l.</hi> R</item>
+               <item>☞<hi>James Harrington,</hi> committed R</item>
+               <item>
+                  <hi>Robert Haſe,</hi> committed the 15 day of <hi>October</hi> 1651. his Actions are 130 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Jones</hi> committed the 14 day of <hi>April</hi> 1652. his Actions are 300 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iermyn Dame Mary,</hi> committed the 18 day of <hi>May,</hi> 1652. Actions are 2300 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Arthur Iones,</hi> Lord <hi>Reighnelough,</hi> committed the 31 day of <hi>Iuly</hi> 1652. his Actions are 300 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Ioſias Iuman,</hi> committed the 25 of <hi>November</hi> 1652. his Actions are 130 <hi>l.</hi> C. P.</item>
+               <item>
+                  <hi>Richard Ivorie,</hi> committed the 24 day of <hi>November,</hi> 1652 his Actions and Executions are 140 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Richard Iles,</hi> committed the 30 day of <hi>March,</hi> 1653. his Actions are 160 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Robert Iegon,</hi> committed the 15 day of <hi>April,</hi> 1653. and charged with an Action of treſpaſs. R</item>
+               <item>
+                  <hi>Iohn Iones,</hi> committed the 15 day of <hi>April,</hi> 1653. and charged with an Action of treſpaſs. P. H.</item>
+               <item>Sir <hi>Andrew Kniveton,</hi> committed the 30 of <hi>Auguſt,</hi> 1651. his Actions are 3800 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Iſaack Knype,</hi> committed the 25 day of <hi>October</hi> 1651. his Actions and execution are 6700 <hi>l.</hi> P. H.</item>
+               <item>
+                  <hi>Robert Knightley</hi> committed the 24 day of <hi>September,</hi> 1652. his Actions are 200 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Robert Keele,</hi> committed the 9 of <hi>November,</hi> 1652. his Actions are 220 <hi>l.</hi> R</item>
+               <item>
+                  <hi>George Lee</hi> committed the 24 day of <hi>Ianuary,</hi> 1650. his Actions and Executions are 333 <hi>l.</hi> R</item>
+               <item>
+                  <hi>James Langley,</hi> committed the 18 day of <hi>Iune,</hi> 1651. his Actions and Executions are 40 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Leonard Leonards</hi> committed the 2 day of <hi>Iune,</hi> 1651 his Actions and Execution are 3000 <hi>l.</hi> R</item>
+               <item>
+                  <hi>Anthony Lander</hi> committed the 15 day of <hi>November,</hi> 1651. his Actions are 90 <hi>l.</hi> C.G.</item>
+               <pb n="17" facs="tcp:112035:10"/>
+               <item>Sir <hi>Thomas Lonyvill</hi> committed <hi>December</hi> the 22. 1651. his Actions and Executions 900. l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>James Lidſey</hi> committed <hi>May</hi> the 31. 1652. his Acti<g ref="char:EOLhyphen"/>ons and executions are 1200 l. R.</item>
+               <item>
+                  <hi>John Lord</hi> committed <hi>July</hi> the 8. 1652. charged with a plea of Treſpaſſe. R.</item>
+               <item>
+                  <hi>Lawrence Liſle</hi> committed <hi>Auguſt</hi> 9. 1652. his Actions are 440. l. <hi>P. H.</hi>
+               </item>
+               <item>
+                  <hi>Richard Lyggon</hi> committed <hi>November</hi> the 18 1652. his Actions are 500 l. <hi>P. H.</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Lampley</hi> committed <hi>January</hi> the 11. 1652. his Actions are 20 l. <hi>C.G.</hi>
+               </item>
+               <item>
+                  <hi>John Laſter</hi> committed <hi>Januar.</hi> the 25. 1652. his Action and Executions are 532 l. <hi>P. H.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Luck</hi> committed <hi>November</hi> the 4. 1652. char<g ref="char:EOLhyphen"/>ged with ſeverall Actions of Treſpaſſe onely. <hi>C. G.</hi>
+               </item>
+               <item>
+                  <hi>John Lloyd App Reez</hi> committed <hi>March</hi> the 5. 1649. his Action and Execution are 64. l. <hi>C.G.</hi>
+               </item>
+               <item>
+                  <hi>John Luntley</hi> committed <hi>November</hi> the 6. 1649. his A<g ref="char:EOLhyphen"/>ctions and Executions 481 l. R.</item>
+               <item>
+                  <hi>John Lueas</hi> committed <hi>March</hi> the 7. 1652. his Acti<g ref="char:EOLhyphen"/>ons are 1120 l. R.</item>
+               <item>
+                  <hi>John Long</hi> committed <hi>February</hi> 5. 1651. his Actions and Executions are 150 l. <hi>C. G.</hi>
+               </item>
+               <item>
+                  <hi>Abraham Lenerux</hi> committed <hi>November</hi> 25. 1651 his Actions and Executions are 40. l. P. <hi>H.</hi>
+               </item>
+               <item>
+                  <hi>Edward Mullenax</hi> committed <hi>April</hi> the 17. 1649. his Actions and Executions are 450 l. <hi>R.</hi>
+               </item>
+               <item>Sir <hi>William Moreton</hi> committed <hi>June</hi> the 7. 1651. his Actions and Executions are 892. l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>John Mildmay</hi> committed <hi>June</hi> 18. 1651. his Actions and Executions are 1800 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Adam Moore</hi> committed <hi>September</hi> 8. 1651. his Actions and Executions are 400 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Anthony Morgan</hi> committed <hi>April</hi> the 17. 1652. his Actions and Executions are 1600 l. <hi>R.</hi>
+               </item>
+               <item>Sir <hi>Charls Mannors</hi> committed <hi>May</hi> the 28. 1652. his Actions and Executions are 700 l. <hi>R.</hi>
+               </item>
+               <pb n="18" facs="tcp:112035:11"/>
+               <item>
+                  <hi>Francis Martin</hi> committed <hi>October</hi> the 20. 1652. his A<g ref="char:EOLhyphen"/>ctions are 2100 l. P.</item>
+               <item>
+                  <hi>William Magges</hi> committed <hi>November</hi> 29. 1652. his Actions are 20 l. <hi>C. G.</hi>
+               </item>
+               <item>
+                  <hi>Toby Martin</hi> committed <hi>November</hi> the 8. 1647. his Actions and Execution are 20 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Markland</hi> committed <hi>Auguſt</hi> the 24 1652. his Actions are 50 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Michael Maſon</hi> committed <hi>February</hi> the 9. 1652. his Actions are 120 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Anne Morehead</hi> committed <hi>April</hi> the 6. 1653. her Actions are 4123. P. <hi>H.</hi>
+               </item>
+               <item>¶ Sir <hi>Thomas Not</hi> committed <hi>October</hi> the 30. 1649. his Actions and Execution are 3400 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>William Nelſon</hi> committed <hi>June</hi> the 9. 1649. his Action and Execution are 220 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Roger Not</hi> committed <hi>November</hi> the 17 1651. his Action are 660 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Roger Nicholls</hi> committed <hi>December</hi> the 1. 1651. his Actions and Execution are 3300 l. P. <hi>H.</hi>
+               </item>
+               <item>
+                  <hi>George Nendike</hi> committed <hi>November</hi> the 17. 1652. his Action 370 l. P. <hi>H.</hi>
+               </item>
+               <item>
+                  <hi>Ralph Oldeham</hi> committed <hi>January</hi> the 13 1648. his A<g ref="char:EOLhyphen"/>ctions are 290 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Oulton</hi> committed <hi>January</hi> 28. 1651 her A<g ref="char:EOLhyphen"/>ction 40 l. <hi>P. H.</hi>
+               </item>
+               <item>¶ <hi>Mary Ouldes</hi> committed <hi>March</hi> the 8. 1651. her Action an Action of Treſpaſſe. <hi>P. H.</hi>
+               </item>
+               <item>
+                  <hi>Edward Perrin</hi> committed <hi>January</hi> the 29. 1650. his A<g ref="char:EOLhyphen"/>ction 820 l. <hi>P.</hi> H.</item>
+               <item>
+                  <hi>Richard Porter</hi> committed <hi>February</hi> the 12. 1650 his Action and Execution are 450 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Richard Prat</hi> committed <hi>May</hi> the 12. 1651. his Action and Execution are 1140 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Purchas</hi> committed <hi>January</hi> the 26 1651 his Actions are 400 l. R.</item>
+               <item>
+                  <hi>Henry Penning</hi> committed <hi>April</hi> the 1. 1652. his Acti<g ref="char:EOLhyphen"/>on and Execution are 3120 l. R.</item>
+               <pb n="19" facs="tcp:112035:11"/>
+               <item>
+                  <hi>Samuel Porter</hi> committed the firſt day of <hi>Iune</hi> 1652. his Action is 20 l. R.</item>
+               <item>
+                  <hi>Iames</hi> Lord <hi>Paſeley</hi> committed the 12 day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 1652. his Actions are 407 l. R.</item>
+               <item>
+                  <hi>Iohn Prat</hi> committed the 25 day of <hi>November</hi> 1652. his Action 100 l. R.</item>
+               <item>
+                  <hi>Bartholomew Pack</hi> committed the fourth of <hi>December</hi> 1652 his Actions are 210 l. P. H.</item>
+               <item>
+                  <hi>William Pay</hi> committed the 26 of <hi>Ianuary</hi> 1652. his Actions are 20 l. P. H.</item>
+               <item>
+                  <hi>Martha Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> committed the 1 of <hi>February</hi> 1652. her Actions are 807 l. R.</item>
+               <item>
+                  <hi>William Price</hi> committed the 7 day of <hi>Iuly</hi> 1647. his Actions and Executions are 301 l. P. H.</item>
+               <item>
+                  <hi>Frances Payler</hi> committed the 7 day of <hi>February</hi> 1652 her Action is 520 l. H. P.</item>
+               <item>
+                  <hi>Aune Pits,</hi> Committed the 27. of <hi>November</hi> 1651. her Actions and Executions are 107 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Kobert Pitcher,</hi> Committed the 18. of <hi>February</hi> 1652. his Actions are 100 l. R.</item>
+               <item>¶ <hi>John Pyme,</hi> Committed the ſecond of <hi>March</hi> 1652. his Actions are 360 l. <hi>R.</hi>
+               </item>
+               <item>¶ <hi>Richard Pyme,</hi> Committed the 12. of <hi>February,</hi> 1652. his Actions are 1234 l. <hi>P. H.</hi>
+               </item>
+               <item>Sr. <hi>Nevill Poole,</hi> committed 12. of <hi>May</hi> 1651. his Actions and Executions are 2320 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Pain,</hi> Committed the 8. of <hi>Aprill</hi> 1653. his Actions are 170 l. R.</item>
+               <item>
+                  <hi>Robert Rogers,</hi> committed the 12. of <hi>February</hi> 1651. his Actions are 700 l. C. <hi>G.</hi>
+               </item>
+               <item>
+                  <hi>James Roots,</hi> committed the 25. of <hi>September</hi> 1652. his Actions are 30 l. R.</item>
+               <item>
+                  <hi>Thomas Reddall</hi> committed the 15. of <hi>October</hi> 1652. his Actions 200 l <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Abraham Ruttur,</hi> committed the 26. <hi>October</hi> 1652. his Actions and Execution are 648. R.</item>
+               <item>
+                  <hi>William Richmond,</hi> Committed the 4. of <hi>December</hi> 1652. his Actions 24 l. <hi>C. G.</hi>
+               </item>
+               <pb n="20" facs="tcp:112035:12"/>
+               <item>¶ <hi>David Ramſey</hi> committed the 17. of <hi>November</hi> 1652. in diſcharge of his Baile, P. H.</item>
+               <item>
+                  <hi>William Roker</hi> committed the ſecond of <hi>December</hi> 1652. his Actions and Executions are 40 l. C. G.</item>
+               <item>
+                  <hi>Robert Robins</hi> committed the 26 of <hi>February</hi> 1650. his Actions 1414 l. R.</item>
+               <item>
+                  <hi>John Robinſon</hi> committed the 11. of <hi>February</hi> 1652. his actions and Executions 160 l. P. H.</item>
+               <item>
+                  <hi>William Ruſſell</hi> committed the 18. of <hi>February</hi> 1652. his actions are 46 l. <hi>C.</hi> G.</item>
+               <item>¶ <hi>William Raven</hi> committed the 19. of <hi>March</hi> 1652. in diſcharge of his Baile <hi>C. G.</hi>
+               </item>
+               <item>
+                  <hi>Richard Rea:</hi> committed the 6. of <hi>Aprill</hi> 1653. his actions 200 l. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>Robert Ramſey,</hi> committed the laſt day of <hi>June</hi> 1641 charged with Judgment 400. l. P. H.</item>
+               <item>
+                  <hi>Anthony Sowden</hi> committed the 4 of <hi>June</hi> 1641. actions and Executions 480 l. <hi>C. P.</hi>
+               </item>
+               <item>
+                  <hi>Cornelius Spencer</hi> committed the 25 of day of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> 1647. actions 100 l. C. P.</item>
+               <item>
+                  <hi>Henry Stevens</hi> committed the 22 of <hi>January</hi> 1650 his Actions and Executions are 7000 l. R.</item>
+               <item>
+                  <hi>Valentine Saunders</hi> committed the 20 of <hi>February</hi> 1650 his actions are 35 l. P. H.</item>
+               <item>
+                  <hi>Charls Scimpſhaw</hi> committed the 28 day of <hi>June</hi> 1651. his actions are 740 l. R.</item>
+               <item>
+                  <hi>Michael Spencer</hi> remains in cuſtody committed the 28 of <hi>October</hi> 1651. his Actions &amp; Executions are 280 l. R.</item>
+               <item>
+                  <hi>William Stareſmoore</hi> committed the 19 of <hi>May</hi> 1651. his Actions and Executions are 240 l. R.</item>
+               <item>
+                  <hi>John Spicer</hi> committed the 18 of <hi>June</hi> 1652. his Actions and Executions are 150 l. P. H.</item>
+               <item>
+                  <hi>Richard Sturzaker</hi> committed the 19 of <hi>Iune</hi> 1652. his Actions and Executions are 420 l. R.</item>
+               <item>
+                  <hi>Dudley Sands</hi> committed the 29 of <hi>Iune</hi> 1652. his Actions and Executions are 1120 l. R.</item>
+               <item>
+                  <hi>George Smith</hi> committed the fifth of <hi>October</hi> 1652 his Actions and Executions are 2200 l. R.</item>
+               <pb n="21" facs="tcp:112035:12"/>
+               <item>¶ <hi>Samuel Skelton</hi> committed the 18 day of <hi>November</hi> 1652. in diſcharge of his Baile R.</item>
+               <item>
+                  <hi>William Shears</hi> committed the 7 of <hi>December</hi> 1652. his Actions are 1100 l. R.</item>
+               <item>
+                  <hi>Henry Shefton</hi> committed the fifth of <hi>Ianuary</hi> 1652. his Actions are 80 l. R.</item>
+               <item>
+                  <hi>Humfrey Shadd</hi> committed the 13 day of <hi>Ianuary</hi> 1652. his Actions are 104 l. R.</item>
+               <item>
+                  <hi>Thomas Sutton</hi> committed the 21 of <hi>Ianuary</hi> 1652. his Actions and Executions are 31 l. R.</item>
+               <item>
+                  <hi>Thomas Stevens</hi> committed the 12 of <hi>February</hi> 1646. his Actions and Executions are 260 l. R.</item>
+               <item>
+                  <hi>Ioſeph Symes</hi> committed the 22 day of <hi>Ianuary</hi> 1640. his Actions and Executions are 360 l. P. H.</item>
+               <item>
+                  <hi>Iohn Stephenſon</hi> committed the 25 of <hi>Ianuary</hi> 1652. his Actions are 430 l. C. P.</item>
+               <item>
+                  <hi>William Stebbing</hi> committed the 10 of <hi>February</hi> 1652. his Actions are 244 l. P. H.</item>
+               <item>
+                  <hi>Anthony</hi> St. <hi>Leger</hi> committed <hi>February</hi> 11. 1652. his Actions are 7300 l. R.</item>
+               <item>
+                  <hi>Thomas South</hi> committed <hi>March</hi> the 5. 1652 his Acti<g ref="char:EOLhyphen"/>ons are 960 l. R.</item>
+               <item>
+                  <hi>Rowland Sherrard</hi> committed <hi>February</hi> the 12. 1652 his Actions are 800 l. P. <hi>H.</hi>
+               </item>
+               <item>
+                  <hi>Richard Seed</hi> committed <hi>February</hi> the 11. 1652. his A<g ref="char:EOLhyphen"/>ctions are 370 l. P. H.</item>
+               <item>¶ <hi>Stephen Swinborn</hi> committed <hi>November</hi> the 3. 1652. in diſchage of his Bail. R.</item>
+               <item>¶ <hi>Anthony Stubbs</hi> committed <hi>March</hi> the 8. 1652. his A<g ref="char:EOLhyphen"/>ctions and executions are 310 l. P. H.</item>
+               <item>
+                  <hi>Thomas Turner</hi> committed <hi>February</hi> the 16. 1645. his Actions and Executions are 5500 l. R.</item>
+               <item>
+                  <hi>Hugh Thornely</hi> committed <hi>November</hi> the 22. 1651. his Actions are 510 l. R.</item>
+               <item>
+                  <hi>William Tovey</hi> committed <hi>April</hi> the 22. 1652. his A<g ref="char:EOLhyphen"/>ctions are 40 l. R.</item>
+               <item>
+                  <hi>Nathaniel Tidderleigh</hi> committed <hi>July</hi> the 9. 1652. his Actions are 200 l. R.</item>
+               <pb n="22" facs="tcp:112035:13"/>
+               <item>
+                  <hi>Thomas Tidder</hi> committed <hi>September</hi> the 7. 1652. his Actions are 40 l. R.</item>
+               <item>
+                  <hi>John Therry</hi> committed <hi>December</hi> the 11. 1652. his A<g ref="char:EOLhyphen"/>ctions and Executions are 400 l. R.</item>
+               <item>
+                  <hi>John Terry</hi> Merchant committed <hi>November</hi> the 25. 1636. and ſtands charged with a Fine of 500 l. ſet by the com<g ref="char:EOLhyphen"/>miſſioners of the Late King, and likewiſe a Warrant from the Court of the upper Bench that he ſhould re<g ref="char:EOLhyphen"/>main in Priſon, untill he pay to one <hi>Drake</hi> and <hi>Elliot</hi> one hundred pounds, which he promiſed to aſſure, alſo with an Action of Debt of 20 l. R.</item>
+               <item>
+                  <hi>Oliver Vaughan</hi> committed <hi>February</hi> the 9. 1652. his A<g ref="char:EOLhyphen"/>ctions and Executions are 750 l. R.</item>
+               <item>
+                  <hi>Francis Williamſon</hi> Eſquire, committed <hi>May</hi> the 26. 1647. his Actions and Executions are 23300 l. R.</item>
+               <item>Dame <hi>Mary Wandesford</hi> committed <hi>January</hi> the 11. 1650 her Actions are 8100 l. R.</item>
+               <item>
+                  <hi>Margaret Wandesford</hi> widow committed <hi>January</hi> the 11. 1650. charged with 11000 l. Actions. R.</item>
+               <item>
+                  <hi>Timothy Wright</hi> committed <hi>February</hi> the 27 1650 his Actions are 700 l. P. H.</item>
+               <item>
+                  <hi>Edward Whitacre</hi> committed <hi>January</hi> the 29. 1650 his Actions are 600 l. R.</item>
+               <item>
+                  <hi>Richard VVard</hi> committed the 13. of <hi>Iune</hi> 1651. his Actions and Executions are 4100 l. P. H.</item>
+               <item>
+                  <hi>Arthur VVooton</hi> committed the 21 of <hi>October</hi> 1651. his Actions are 240 l. R.</item>
+               <item>
+                  <hi>Stephen Weſſendunk</hi> committed the 18 day of <hi>February</hi> 1651. his Actions are 250 l. C. P.</item>
+               <item>
+                  <hi>Richard White</hi> committed the 16 of <hi>December</hi> 1651. his Actions are 650 l. C. P.</item>
+               <item>¶ <hi>Robert Waſher</hi> committed the 30 day of <hi>April</hi> 1652 his Actions are 800 l. P. H.</item>
+               <item>
+                  <hi>Ioſeph Walſh</hi> committed the 31 day of <hi>May</hi> 1652. his Actions are 2400 l. P. H.</item>
+               <item>
+                  <hi>Henry Warner</hi> committed the 4 day of <hi>Iune</hi> 1652. in diſcharge of his Baile. C. P.</item>
+               <item>
+                  <hi>Francis Weſt</hi> committed the 28 day of <hi>October</hi> 1652.
+<pb n="23" facs="tcp:112035:13"/>his Actions and Executions are 25 l. C. P.</item>
+               <item>¶ <hi>Nicholas Warne</hi> committed the 3. of <hi>November</hi> 1652. charged onely with a Plea of Treſpaſſe. R.</item>
+               <item>¶ <hi>Hugh Wardle</hi> committed the 9. of <hi>November</hi> 1652. his Actions are 300 l. R.</item>
+               <item>
+                  <hi>Iohn Warters</hi> committed the 17 of <hi>December</hi> 1653. and charged with a plea of Treſpaſſe. R.</item>
+               <item>
+                  <hi>John Wright</hi> committed <hi>November</hi> the 8. 1652. his Acti<g ref="char:EOLhyphen"/>ons are 4000 l. R.</item>
+               <item>
+                  <hi>John Weekes</hi> committed <hi>February</hi> the 9. 1652. by the command of the Court. P. H.</item>
+               <item>
+                  <hi>Rodolph Warcupp</hi> committed <hi>May</hi> the 2. 1646 his Acti<g ref="char:EOLhyphen"/>ons and Executions are 7200 l. R.</item>
+               <item>
+                  <hi>William Whitby</hi> committed <hi>February</hi> the 12. 1652. his Actions are 1300 l. R.</item>
+               <item>
+                  <hi>Henry Walthew</hi> committed <hi>January</hi> the 17. 1645. Acti<g ref="char:EOLhyphen"/>ons and Executions 600 l. R.</item>
+               <item>
+                  <hi>Edward Willoughby</hi> committed <hi>March</hi> the 1. 1652. Acti<g ref="char:EOLhyphen"/>ons 360 l. R.</item>
+               <item>
+                  <hi>William Worley</hi> committed <hi>April</hi> the 2. 1653. Actions 258 l. <hi>C. P.</hi>
+               </item>
+               <item>
+                  <hi>Matthew Walbanck</hi> committed <hi>April</hi> the 8. 1653. Acti<g ref="char:EOLhyphen"/>ons 500 l. R.</item>
+               <item>
+                  <hi>William</hi> Lord <hi>Powis</hi> committed the 20 of <hi>Apr.</hi> 1653. R.</item>
+               <item>The Totall number of the Priſoners are 393.</item>
+            </list>
+            <p>And the Totall Summe of their Actions and Exe<g ref="char:EOLhyphen"/>cutions are, Nine hun<g ref="char:EOLhyphen"/>dred ſeventy ſix thou<g ref="char:EOLhyphen"/>ſand, and one hundred twenty two pounds.</p>
+            <p>
+               <hi>Theſe perſons above named are all the Priſoners that ſtand now committed this</hi> 3. <hi>day of May,</hi> 1653. <hi>for all whom I am reſponſible, and are in the Houſe or Rules, or gone a<g ref="char:EOLhyphen"/>broad this day, by order of Court.</hi>
+            </p>
+            <closer>
+               <signed>JOHN LENTHAL.</signed>
+            </closer>
+         </div>
+         <div type="proposition">
+            <pb n="24" facs="tcp:112035:14"/>
+            <head>
+               <hi>THE</hi> PROPOSITIONS WITH SOME ADDITIONS.</head>
+            <p n="1">1. THe Priſoners were deſired to ſhew their Rea<g ref="char:EOLhyphen"/>ſons why a Law ſhould not be made, to Se<g ref="char:EOLhyphen"/>queſter their Eſtates into the Hands of Com<g ref="char:EOLhyphen"/>miſſioners nominated by their Creditors, as in the Statute of Bankerupt, to be Let or Sold, that their debts might be paid, and the remainder returned to them.</p>
+            <p n="2">2. To ſhew their Reaſons, why a Law ſhould not al<g ref="char:EOLhyphen"/>ſo be made, That if any of the Priſoners have made o<g ref="char:EOLhyphen"/>ver their Eſtates, or any part thereof, in Truſt, or other<g ref="char:EOLhyphen"/>wiſe, to any Perſon, ſo as to defraud their Creditors; And if ſuch Perſon or Perſons ſhall not voluntarily make Diſcovery thereof, within a convenient time, to be appointed; That then, they ſhall forfeit of their own Eſtates the Value of what is ſo Concealed, and ſuch fraudulent Acts made void.</p>
+            <pb n="23" facs="tcp:112035:14"/>
+            <p n="3">3. Why the Creditors of ſuch as are poor, and have not to pay their debts, their Credi<g ref="char:EOLhyphen"/>tors having the benefit of Commiſſioners if they will, to examine their Debtors upon oath, and ſuch other Witneſſes as are neceſ<g ref="char:EOLhyphen"/>ſary for the diſcovering their Eſtates, paying as farre as it will extend, why ſuch perſons ſhould not be releaſed, ſo as to be ſet to la<g ref="char:EOLhyphen"/>bour (if able) for bread for themſelves or families: and if poſſible, to pay their juſt debts: That the Common-wealth, Credi<g ref="char:EOLhyphen"/>tor, and Debtor may leſſe ſuffer, and the Lord not provoked by the cruelty of the Creditor or careleſneſſe of the Debtor.</p>
+            <p>And all ſuch poor Priſoners as are in want and not able to worke, may be releaſed and relieved; That ſo Priſons may neither be places of protection to men of Eſtates, nor of deſtruction to ſuch as have none.</p>
+            <p>The anſwer by ſome of the Priſners to the firſt Propoſition was; That they thought it reaſonable, ſo as they might have like re<g ref="char:EOLhyphen"/>liefe againſt their Debtors.</p>
+            <p>Others ſaid, that they lay in Priſon for other mens debts, who dyed men of great
+<pb n="24" facs="tcp:112035:15"/>Eſtates, and left them to deſcend to their Children in Tayle, and they prayed their Eſtates might be made lyable to pay their Debts.</p>
+            <p>Others ſaid, they were impriſoned unjuſt<g ref="char:EOLhyphen"/>ly, at the ſuite of Corporations, and thoſe Corporations were indebted to them, and prayed that a Law might be made to make Corporations lyable to pay their debts.</p>
+            <p>Divers Priſoners complained, that they were kept in Priſon by feigned Actions, and no Declarations upon them, to ſhew for what cauſe; and when they had been ſo im<g ref="char:EOLhyphen"/>priſoned three Termes, becauſe then they might free themſelves upon common Baile; their Adverſaries would lay other feigned A<g ref="char:EOLhyphen"/>ctions upon them, and ſo they were never like to get out.</p>
+            <p>Theſe and many other things of moment, for redreſſe in theſe caſes, are under conſide<g ref="char:EOLhyphen"/>ration, and to be preſented to the Councell of State for preſent reliefe.</p>
+         </div>
+      </body>
+      <back>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:112035:15"/>
+            <head>The Printer to the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou art deſired to take no<g ref="char:EOLhyphen"/>tice, that <hi>R.</hi> in the margent ſignifies <hi>Rules</hi> of the houſe, <hi>P. H.</hi> ſignifies <hi>Priſon Houſe,</hi> and <hi>C. P. Common Priſon,</hi> and <hi>C.G.</hi> Com<g ref="char:EOLhyphen"/>mon Gail, <hi>vale.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
